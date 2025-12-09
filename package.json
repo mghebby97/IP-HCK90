@@ -1,0 +1,33 @@
+{
+  "name": "ip-hck90",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --verbose --detectOpenHandles --forceExit --runInBand --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mghebby97/IP-HCK90.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mghebby97/IP-HCK90/issues"
+  },
+  "homepage": "https://github.com/mghebby97/IP-HCK90#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11",
+    "sequelize-cli": "^6.6.3",
+    "supertest": "^7.1.4"
+  }
+}
