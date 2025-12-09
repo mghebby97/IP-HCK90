@@ -65,4 +65,6 @@ Seeding
 untuk commit 
  - git add .
  - git commit -m "feat: GC1 "
- - git push origin main
+ - git push origin development
+
+ baru 2 commit
