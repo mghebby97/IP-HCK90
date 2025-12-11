@@ -133,3 +133,4 @@ export default function NewsCard({ article, isFavorite = false, favoriteId }) {
     </div>
   );
 }
+
