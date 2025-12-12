@@ -64,7 +64,7 @@ Seeding
 
 untuk commit 
  - git add .
- - git commit -m "feat: IP styling"
+ - git commit -m "feat: IP API DOC"
  - git push origin development
 
  baru 2 commit
